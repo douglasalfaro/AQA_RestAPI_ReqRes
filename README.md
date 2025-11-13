@@ -1,6 +1,10 @@
 # Dog API REST Tests (Python + Pytest)
 
-This repository contains automated tests for the public **Dog CEO API** (`https://dog.ceo/api`), implemented using **Python** and **pytest**.
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Tests-Pytest-blueviolet?logo=pytest)
+![Status](https://img.shields.io/badge/Test%20Status-Passing-brightgreen?style=flat&logo=checkmarx)
+
+This repository contains automated tests for the public **Dog CEO API** …
 
 The goal is to demonstrate:
 
