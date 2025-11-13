@@ -21,16 +21,19 @@ The goal is to demonstrate:
 
 ## 📁 Project Structure
 
+
 ```bash
-src/
-  __init__.py        # Makes src a package
-  config.py          # Base URL, timeouts, global config
-  http_client.py     # Reusable HTTP client wrapper
-
-tests/
-  conftest.py        # Shared fixtures (client, base URL)
-  test_dog_api.py    # Tests for Dog CEO API endpoints
-
-requirements.txt
-pytest.ini
-README.md
+📦 AQA_RestAPI_ReqRes/
+├── 📂 src/
+│ ├── 📄 init.py
+│ ├── 📄 config.py
+│ └── 📄 http_client.py
+│
+├── 📂 tests/
+│ ├── 📄 conftest.py
+│ └── 📄 test_dog_api.py
+│
+├── 📄 requirements.txt
+├── ⚙️ pytest.ini
+├── 📝 README.md
+└── 📄 .gitignore
