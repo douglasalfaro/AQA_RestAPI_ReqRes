@@ -1,10 +1,10 @@
 # Dog API REST Tests (Python + Pytest)
 
-![CI](https://github.com/douglasalfaro/AQA_RestAPI_ReqRes/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Tests-Pytest-blueviolet?logo=pytest)
 ![Status](https://img.shields.io/badge/Test%20Status-Passing-brightgreen?style=flat&logo=checkmarx)
 ![API](https://img.shields.io/badge/API-Dog%20CEO%20API-orange?logo=dog&logoColor=white)
+![CI](https://github.com/douglasalfaro/AQA_RestAPI_ReqRes/actions/workflows/tests.yml/badge.svg)
 
 
 This repository contains automated tests for the public **Dog CEO API** …
